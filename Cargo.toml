@@ -6,3 +6,4 @@ authors = [""]
 
 [dependencies]
 warp = "0.3.6"
+tokio = { version = "0.2", features = ["macros"] }
